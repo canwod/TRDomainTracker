@@ -17,7 +17,7 @@ Bu proje, TRABIS (Türkiye Alan Adı Yönetimi) web sitesinden domain verilerini
 1. Projeyi bilgisayarınıza indirin.
 2. XAMPP veya benzeri bir web sunucusu kurun.
 3. Projeyi `htdocs` klasörüne kopyalayın.
-4. Tarayıcınızdan `http://localhost/test` adresine gidin.
+4. Tarayıcınızdan `http://localhost/TRDomainTracker` adresine gidin.
 
 ## Kullanım
 
